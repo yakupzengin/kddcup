@@ -1,0 +1,4 @@
+# KDD Cup 2022 ESCI Challenge - .gitignore
+
+# Data files (ignore all data)
+data/

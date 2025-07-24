@@ -1,0 +1,2 @@
+# This file ensures the results/predictions directory is tracked in git
+# Model predictions will be saved here
